@@ -5,4 +5,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="nav_version">Version:</string>
+    <string name="nav_git_commit">Git commit:</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_hw_settings">Hardware Settings</string>
 </resources>

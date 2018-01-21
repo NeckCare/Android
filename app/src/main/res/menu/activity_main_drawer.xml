@@ -2,9 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="all">
         <item
-                android:title="Hardware Settings"
-                android:icon="@mipmap/ic_launcher"
-                android:id="@+id/hw_settings"/>
+                android:title="@string/nav_home"
+                android:icon="@drawable/ic_home"
+                android:id="@+id/nav_home"/>
+        <item
+                android:title="@string/nav_hw_settings"
+                android:icon="@drawable/ic_settings"
+                android:id="@+id/nav_hw_settings"/>
     </group>
 
 </menu>
